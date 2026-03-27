@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <footer className="w-full bg-[#F24A4A] px-[4vw] py-16 flex flex-col text-black mt-[4rem] relative z-2">
+    <footer className="w-full bg-[#F24A4A] px-[4vw] py-16 flex flex-col text-black relative z-2">
   
   {/* Section Heading */}
   <h2 className="font-syne text-[1.6rem] font-bold mb-10">

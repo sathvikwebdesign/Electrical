@@ -11,11 +11,14 @@ export default function Home() {
     <>
   
    <Hero/>
+   <div className="bg-[#efeded] relative z-2">
+    
    <Textoverlay/>
 
    <Events/>
    <Faculty/>
    <Footer/>
+   </div>
     </>
   )
 }
