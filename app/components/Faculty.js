@@ -10,8 +10,8 @@ gsap.registerPlugin(ScrollTrigger)
 const teamData = [
   {
     id: 1,
-    name: "K Madharchod",
-    role: "H.O.D EEE dept",
+    name: "Devara",
+    role: "Bhadrinath",
     email: "Sathvikreddyfootballer@gmail.com",
     tag: "HOD EEE",
     bio: "Hardware doesn't configure itself. The grid requires operators. We are a tightly synchronized network of developers, researchers, and system designers dictating the future of the association. This is the core protocol. Meet the nodes.",
